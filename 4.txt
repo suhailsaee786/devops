@@ -1,2 +1,3 @@
 file added to the clone
 modified the file in the clone again
+checking the diff	
